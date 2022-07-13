@@ -1,2 +1,1 @@
-# oke
-Scripts to Delta
+
